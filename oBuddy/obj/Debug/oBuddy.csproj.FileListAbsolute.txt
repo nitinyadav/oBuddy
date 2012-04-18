@@ -1,0 +1,12 @@
+c:\users\spark\documents\visual studio 2010\Projects\oBuddy\oBuddy\bin\Debug\oBuddy.dll
+c:\users\spark\documents\visual studio 2010\Projects\oBuddy\oBuddy\bin\Debug\oBuddy.pdb
+c:\users\spark\documents\visual studio 2010\Projects\oBuddy\oBuddy\bin\Debug\oBuddy.xml
+c:\users\spark\documents\visual studio 2010\Projects\oBuddy\oBuddy\obj\Debug\ResolveAssemblyReference.cache
+c:\users\spark\documents\visual studio 2010\Projects\oBuddy\oBuddy\obj\Debug\oBuddy.csproj.ResolveComReference.cache
+c:\users\spark\documents\visual studio 2010\Projects\oBuddy\oBuddy\obj\Debug\oBuddy.dll
+c:\users\spark\documents\visual studio 2010\Projects\oBuddy\oBuddy\obj\Debug\oBuddy.pdb
+C:\Users\spark\Documents\Visual Studio 2010\Projects\oBuddy\oBuddy\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\spark\Documents\Visual Studio 2010\Projects\oBuddy\oBuddy\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\spark\Documents\Visual Studio 2010\Projects\oBuddy\oBuddy\bin\Debug\oBuddy.dll.config
+C:\Users\spark\Documents\Visual Studio 2010\Projects\oBuddy\oBuddy\obj\Debug\oBuddy.Form1.resources
+C:\Users\spark\Documents\Visual Studio 2010\Projects\oBuddy\oBuddy\obj\Debug\oBuddy.SearchResultForm.resources
